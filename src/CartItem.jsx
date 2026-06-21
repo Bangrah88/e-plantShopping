@@ -20,7 +20,7 @@ const calculateTotalAmount = () => {
 };
   cartItems.map((item) => (
 
-  ))
+  );
 
   const handleContinueShopping = (e) => {
     onContinueShopping(e);
